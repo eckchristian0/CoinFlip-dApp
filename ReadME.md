@@ -7,9 +7,9 @@ ropsten testnet for Ethereum. It uses an infura API to get a random number which
 used to create a heads or tails outcome on a bet. 
 
 <h3> Libraries Used </h3>
-Web3.js
-JavaScript
-Bootstrap
+Web3.js <br>
+JavaScript <br>
+Bootstrap <br>
 
 
 <h3>Steps of Use </h3>
