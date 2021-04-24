@@ -13,10 +13,10 @@ Bootstrap <br>
 
 
 <h3>Steps of Use </h3>
-1. User enter amount of ETH they wish bet
-2. User selects heads or tails which starts the bet finalization process
-3. User must verify transaction through wallet which sends funds to Smart Contract
-4. Wait - Smart Contract will send request randomness generator and will determine out from result received
-5. An alert will flash on the screen and print in console alerting user to outcome. 
-6. User has to pull winnings from website
+1. User enter amount of ETH they wish bet <br>
+2. User selects heads or tails which starts the bet finalization process <br>
+3. User must verify transaction through wallet which sends funds to Smart Contract <br>
+4. Wait - Smart Contract will send request randomness generator and will determine out from result received <br>
+5. An alert will flash on the screen and print in console alerting user to outcome  <br>
+6. User has to pull winnings from website <br>
 
