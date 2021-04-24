@@ -10,7 +10,10 @@ used to create a heads or tails outcome on a bet.
 Web3.js <br>
 JavaScript <br>
 Bootstrap <br>
+Solidity <br>
 
+<h3> API Integration </h3>
+Infura - RandomNumberGenerator API
 
 <h3>Steps of Use </h3>
 1. User enter amount of ETH they wish bet <br>
